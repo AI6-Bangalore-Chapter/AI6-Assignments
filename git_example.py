@@ -1,7 +1,7 @@
-########
+```
 This python file si a goood starting pouint.
 Activation Funstions
-########
+```
 
 #libraries
 import numpy as np
