@@ -1,5 +1,5 @@
 ```
-This python file si a goood starting pouint.
+This python file is a goood starting point.
 Activation Funstions
 ```
 
@@ -8,11 +8,13 @@ import numpy as np
 
 def sigmoid(x):
   # enter code below
-  return (1 / (1 + numpy.exp(-x)))
+  return (1 / (1 + np.exp(-x)))
 
 def tanh(x):
   # enter code below
+  return (np.tanh(x))
   
 def relu(x):
   # entr code below
+  return np.relu(x)
   
