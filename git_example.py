@@ -16,5 +16,5 @@ def tanh(x):
   
 def relu(x):
   # entr code below
-  return np.relu(x)
+  return np.max(0,x)
   
