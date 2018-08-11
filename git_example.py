@@ -1,6 +1,6 @@
 ```
-This python file si a goood starting pouint.
-Activation Funstions
+This python file is a goood starting point.
+Activation Functions
 ```
 
 #libraries
@@ -12,7 +12,8 @@ def sigmoid(x):
 
 def tanh(x):
   # enter code below
-  
+  return(math.tanh(x))
 def relu(x):
   # entr code below
-  
+    return()
+
