@@ -18,3 +18,6 @@ def relu(x):
   # entr code below
   return np.max(0,x)
   
+
+
+
