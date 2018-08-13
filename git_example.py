@@ -1,5 +1,4 @@
 ```
-
 This python file is a good starting point.
 
 Activation Functions
@@ -14,11 +13,15 @@ def sigmoid(x):
 
 def tanh(x):
   # enter code below
-  return (np.tanh(x))
+  return(np.tanh(x))
   
 def relu(x):
   # entr code below
-  return np.max(0,x)
+  return(np.maximum(x, 0))
+=======
+  return (np.tanh(x))
+  
+
   
 
 
