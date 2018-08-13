@@ -1,5 +1,6 @@
 ```
 This python file is a good starting point.
+
 Activation Functions
 ```
 
@@ -17,4 +18,11 @@ def tanh(x):
 def relu(x):
   # entr code below
   return(np.maximum(x, 0))
+=======
+  return (np.tanh(x))
   
+
+  
+
+
+
