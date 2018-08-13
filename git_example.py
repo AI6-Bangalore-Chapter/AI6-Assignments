@@ -16,11 +16,9 @@ def tanh(x):
   return(np.tanh(x))
   
 def relu(x):
-  # entr code below
+  # enter code below
   return(np.maximum(x, 0))
-=======
-  return (np.tanh(x))
-  
+
 
   
 
